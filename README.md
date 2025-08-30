@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://imagine-public.x.ai/imagine-public/images/cf1142a9-203f-456d-9c88-81ba9aae939d.png"  />
+  <img alt="Logo" width="100" height="100" src="https://imagine-public.x.ai/imagine-public/images/cf1142a9-203f-456d-9c88-81ba9aae939d.png"  />
 </div>
 
 ###
