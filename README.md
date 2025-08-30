@@ -1,10 +1,5 @@
 <div align="center">
-  <img alt="Logo" width="146" height="234" src="https://imagine-public.x.ai/imagine-public/images/cf1142a9-203f-456d-9c88-81ba9aae939d.png"  />
-</div>
-
-###
-
-<div align="center">
+  <img alt="Logo" width="126" height="214" src="https://imagine-public.x.ai/imagine-public/images/cf1142a9-203f-456d-9c88-81ba9aae939d.png"  /> <br/>
   <a href="https://www.linkedin.com/in/sonanchenko/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
