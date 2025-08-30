@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img alt="Logo" src="https://imagine-public.x.ai/imagine-public/images/cf1142a9-203f-456d-9c88-81ba9aae939d.png"  />
 </div>
 
 ###
@@ -12,15 +12,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">My name is Serhiy Onanchenko.<br><br>I'm a passionate IT Services Delivery Leader, Operations/Projects/Delivery/NOC/DevOps/SRE/Incident/Support Manager with strong focus on value Delivery, Teams development, Operational excellence and System reliability</p>
+<p align="left">My name is Serhiy Onanchenko.<br><br>I'm a passionate IT Services Delivery Leader, Operations/Projects/Delivery/NOC/DevOps/SRE/Incident/Support Manager with strong focus on Value Delivery, Teams Development, Operational Excellence and System Reliability</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Toolset</h3>
 
 ###
 
