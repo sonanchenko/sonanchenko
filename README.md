@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">My name is Serhiy Onachenko.<br><br>I'm a passionate IT Services Delivery Leader, Operations/Projects/Delivery/NOC/DevOps/SRE/Incident/Support Manager with strong focus on value Delivery, Teams development, Operational excellence and System reliability</p>
+<p align="left">My name is Serhiy Onanchenko.<br><br>I'm a passionate IT Services Delivery Leader, Operations/Projects/Delivery/NOC/DevOps/SRE/Incident/Support Manager with strong focus on value Delivery, Teams development, Operational excellence and System reliability</p>
 
 ###
 
